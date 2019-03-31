@@ -1,7 +1,7 @@
 # flex-grid-responsive
 A grid system based on the flex display property. 
 flexboxgrid.com
-https://github.com/kristoferjoseph/flexboxgrid
+
 
 ### css
 * [Development](https://raw.githubusercontent.com/kristoferjoseph/flexboxgrid/master/dist/flexboxgrid.css)
